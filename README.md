@@ -10,11 +10,11 @@ Once we have figured out how to get there and how to reliably support human life
 
 One of the resources we have come to take for granted is access to the internet. Whether to look up information, send email or watch a video, internet access is now fundamental to modern life. However, all of these services are based on Earth. The internet was designed based on a number of assumptions that will no longer be true if we want to offer the same experience to citizens of Mars.
 
-Read the full article on the Console website.
+[Read the full article on the Console website](https://console.dev/research/mars/).
 
 ## This repository
 
-The [calculations notebook](calculations.ipynb) walks through the calculations used in the article.
+The [calculations notebook](calculations.ipynb) walks through the calculations used in [the article](https://console.dev/research/mars/).
 
 ## License
 
